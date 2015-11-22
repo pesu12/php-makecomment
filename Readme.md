@@ -21,6 +21,9 @@ This library package requires PHP 5.3 or later.
 
 Usage
 -----
+Install the ANAX-MVC from github on address:
+git clone https://github.com/mosbth/Anax-MVC.git
+
 Install the module php-makecomment to folder ANAX-MVC\3pp.
 
 The php-makecomment is meant to be used with class autoloading. 
