@@ -2,7 +2,7 @@
 	"name": "pesu/php-makecomment",
 	"type": "library",
 	"description": "Build up php comment from a indata text line.",
-	"homepage": "-,
+	"homepage": "-",
 	"keywords": ["commentcreation"],
 	"license": "-",
 	"authors": [
@@ -15,13 +15,5 @@
 	],
 	"require": {
 		"php": ">=5.3.0"
-	},
-	"autoload": {
- 		"psr-0": { "pesu": "" }
-	},
-	"extra": {
-		"branch-alias": {
-			"dev-lib": "1.4.x-dev"
-		}
 	}
 }
