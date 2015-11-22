@@ -2,14 +2,14 @@
 	"name": "pesu/php-makecomment",
 	"type": "library",
 	"description": "Build up php comment from a indata text line.",
-	"homepage": "-",
+	"homepage": "http://dbwebb.se/",
 	"keywords": ["commentcreation"],
 	"license": "-",
 	"authors": [
 		{
 			"name": "Per Sundberg",
 			"email": "sundberg_p@yahoo.com",
-			"homepage": "-",
+			"homepage": "http://dbwebb.se/",
 			"role": "Developer"
 		}
 	],
